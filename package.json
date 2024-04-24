@@ -1,0 +1,23 @@
+{
+    "name": "nodeapp1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cookie-parser": "^1.4.6",
+        "ejs": "^3.1.10",
+        "express": "^4.19.2",
+        "jsonwebtoken": "^9.0.2",
+        "mongoose": "^8.3.2",
+        "nanoid": "^5.0.7",
+        "nodemon": "^3.1.0",
+        "short-unique-id": "^5.0.3",
+        "url": "^0.11.3",
+        "uuid": "^9.0.1"
+    }
+}
